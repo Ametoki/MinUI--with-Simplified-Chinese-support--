@@ -4,4 +4,4 @@
 
 # 下一步的工作 Next step (probably if I have time)
 - 以跟随MinUI原版更新速度为前提，逐步进行UI界面的汉化工作。（之前没有做过汉化工作，预计需要较多时间来学习如何做汉化）。
-- On the premise of following the update speed of the original version of MinUI, the Chinese UI interface will be gradually localized. (I have never done Chinese translation work before, so I expect it will take more time to learn how to do Chinese translation).
+- On the premise of following the update of the original MinUI, the Chinese UI interface will be gradually localized. (I have never done Chinese translation work before, so I expect it will take more time to learn how to do Chinese translation).
